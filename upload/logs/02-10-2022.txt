@@ -1,0 +1,2 @@
+::1(admin)--insert--bannerqc(20) (21:45:31 02/10/2022)
+::1(admin)--update--bannerqc([["","type","=","title_tour"]]) (21:45:50 02/10/2022)

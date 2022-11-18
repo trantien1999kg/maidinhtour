@@ -1,0 +1,143 @@
+@media only screen and (max-width: 768px) {
+    .list_c1_tour::after {
+        width: 100% !important;
+        bottom: 75px !important;
+    }
+    .show::after {
+        width: 90% !important;
+        bottom: -15px !important;
+    }
+
+    .box_tour{
+        margin-top: 50px !important;
+    }
+    .tourR{
+        width: 100% !important;
+    }
+    .img_tour_m{
+        border-radius: 25px;
+        overflow: hidden;
+        position: relative;
+        z-index: 9;
+        transition: all 0.3s;
+    }
+    .img_tour_m:hover{
+        margin-bottom: 90px;
+    }
+    .title_name_list_tour{
+       
+        margin-left: 50%;
+        margin-top: -45px !important;
+        margin-bottom: -161px;
+        transform: translateX(-50%);
+        width: 40px !important;
+    }
+    .rotateg90{
+        transform: rotate(90deg);
+    }
+    .grid-3icon {
+        grid-template-columns: repeat(1,1fr) !important;
+        grid-gap: 20px !important;
+    }
+    .wrapper-introduces{
+        padding: 0 !important;
+    }
+    .pd0mobile{
+        padding: 0 !important;
+    }
+    .grid-dk{
+        grid-template-columns: repeat(1,1fr) !important;
+        grid-gap: 30px;
+    }
+    .register_right > input{
+        width: calc( 70% - 10px ) !important;
+        height: 33px !important;
+    }
+    .link_register {
+        width: 30% !important;
+        height: 33px !important;
+        padding: 0 !important;
+    }
+    .title_register_vi{
+        font-size: 24px !important;
+    }
+    .experience{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .center_footer{
+        display: block !important;
+    }
+    .info_footer {
+        margin-left: 50%;
+        transform: translateX(-50%);
+        width: 90%;
+    }
+    .ml-10{
+        margin-left: 0px !important;
+    }
+    .info_footer{
+        margin-left: 0% !important;
+        transform: translateX(0%) !important;
+        width: 100% !important;
+    }
+    .box-mg--lastchild{
+        margin-left: 0 !important;
+    }
+    .grid-6{
+        display: grid;
+        grid-template-columns: repeat(2,1fr) !important;
+    }
+    .register_right{
+        display: flex;
+        gap: 10px;
+    }
+    .title_tour{
+        font-size: 16px !important;
+    }
+    .title_register_vi::after{
+        width: 80px !important;
+    }
+    .title_register_vi::before {
+        width: 255px !important;
+       
+    }
+    .link_register{
+        font-size: 12px !important;
+    }
+    .padding_box_experience{
+        padding: 25px 20px 20px 20px !important;
+        width: 90vw !important;
+    }
+    .box_experience{
+        position: absolute;
+        max-width: 80vw !important;
+    }
+    #owl-tintuc .owl-next {
+        right: 30% !important;
+    }
+    #owl-tintuc .owl-prev {
+        left: 30% !important;
+    }
+    .pb35m{
+        padding-bottom: 35px !important;
+    }
+    .toc-wrapper{
+        margin-top: 5rem;
+    }
+    .title-footer{
+        margin-top: 10px !important;
+    }
+    .register_right > input::placeholder{
+        font-size: 14px !important;
+    }
+    .experience{
+        padding-bottom: 50px;
+    }
+    .experience_line{
+        display: none;
+    }
+    .mt50m{
+        margin-top: 50px !important;
+    }
+}
